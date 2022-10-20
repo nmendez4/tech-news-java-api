@@ -14,6 +14,9 @@ This application was built using:
 ## Installation
 In order to install this application, please download from this GitHub repository or clone the code at ```[github link](https://github.com/nmendez4/tech-news-java-api/)```
 
+## Live Application:
+```[Just Tech News] https://cc-java-api-24.herokuapp.com/```
+
 
 ## Contact Me
 - GitHub: https://github.com/nmendez4
